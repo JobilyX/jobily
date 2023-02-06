@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417125500790",
+    "project_id": "jobily-eb6de",
+    "storage_bucket": "jobily-eb6de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417125500790:android:261dc840e0c95436141c57",
+        "android_client_info": {
+          "package_name": "com.example.jobily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417125500790-u366vsf631ame170b99e6g2d4jkjhdsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3aX0znBO80G_p0OpSgt8RS9EZQby1PUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417125500790-u366vsf631ame170b99e6g2d4jkjhdsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

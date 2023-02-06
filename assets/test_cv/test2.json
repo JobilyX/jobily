@@ -1,0 +1,48 @@
+{
+    "name": "MATTHEW ELIOT",
+    "address": "MADISON, SD 57042",
+    "email": "matthew.eliot@Mail.com",
+    "skills": [
+        "Engineering",
+        "Investigation",
+        "Agile",
+        "Scrum",
+        "Eliot",
+        "Api"
+    ],
+    "education": [
+        {
+            "name": "Columbia University",
+            "dates": [
+                "January 2014"
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "organization": "Bachelor of Science"
+        },
+        {
+            "title": "Software Engineer",
+            "dates": [
+                "February 2001",
+                "February 2001"
+            ],
+            "date_start": "February 2001",
+            "date_end": "February 2001",
+            "location": "New York",
+            "organization": "Luna Software"
+        },
+        {
+            "title": "Software Engineer",
+            "location": "New York",
+            "organization": "AdsPro Software"
+        },
+        {
+            "title": "Junior Software Engineer",
+            "location": "New York",
+            "organization": "AdsPro Software"
+        }
+    ]
+}

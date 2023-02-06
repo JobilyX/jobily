@@ -1,0 +1,48 @@
+{
+    "name": "MATTHEW ELIOT",
+    "email": "matthew.eliot@mail.com",
+    "skills": [
+        "Html5",
+        "Eliot",
+        "Project management",
+        "Javascript",
+        "Php",
+        "Programming",
+        "Sql",
+        "Mysql",
+        "Design",
+        "Css"
+    ],
+    "education": [
+        {
+            "name": "Columbia University",
+            "dates": [
+                "January 2014"
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "title": "Web Developer",
+            "dates": [
+                "February 2001",
+                "February 2001"
+            ],
+            "date_start": "February 2001",
+            "date_end": "February 2001",
+            "location": "New York",
+            "organization": "Luna Web Design"
+        },
+        {
+            "title": "Web Developer",
+            "dates": [
+                "February 2001",
+                "February 2001"
+            ],
+            "date_start": "February 2001",
+            "date_end": "February 2001",
+            "location": "New York",
+            "organization": "Experience"
+        }
+    ]
+}

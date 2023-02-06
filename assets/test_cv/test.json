@@ -1,0 +1,18 @@
+{
+    "name": "Christine Smith",
+    "address": "MADISON, SD 57042",
+    "email": "christine.smith@mail.com",
+    "skills": [
+        "Administration",
+        "Communication"
+    ],
+    "education": [
+        {
+            "name": "Rohan Community College",
+            "dates": [
+                "January 2014"
+            ]
+        }
+    ],
+    "experience": []
+}
